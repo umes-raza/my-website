@@ -1,0 +1,5 @@
+{
+  "name": "LuxeMart E-commerce",
+  "description": "A premium, fully responsive React-based e-commerce platform featuring a product catalog, functional shopping cart with local storage persistence, and modern UI/UX design.",
+  "requestFramePermissions": []
+}
